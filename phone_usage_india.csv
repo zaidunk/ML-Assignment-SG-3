@@ -1,4 +1,4 @@
-User ID,Age,Gender,Location,Phone_Brand,OS,Screen_Time_(hrs/day),Data_Usage_(GB/month),Calls Duration_(mins/day),Number_of_Apps_Installed,Social_Media_Time_(hrs/day),E-commerce_Spend_(INR/month),Streaming_Time_(hrs/day),Gaming_Time_(hrs/day),Monthly_Recharge_Cost_(INR),Primary_Use
+User ID,Age,Gender,Location,Phone_Brand,OS,Screen_Time_(hrs/day),Data_Usage_(GB/month),Calls_Duration_(mins/day),Number_of_Apps_Installed,Social_Media_Time_(hrs/day),E-commerce_Spend_(INR/month),Streaming_Time_(hrs/day),Gaming_Time_(hrs/day),Monthly_Recharge_Cost_(INR),Primary_Use
 U00001,53,Male,Mumbai,Vivo,Android,3.7,23.9,37.9,104,3.9,469,5.2,4.1,803,Education
 U00002,60,Other,Delhi,Realme,iOS,9.2,28.1,13.7,169,2.8,4997,5.1,0.4,1526,Gaming
 U00003,37,Female,Ahmedabad,Nokia,Android,4.5,12.3,66.8,96,3.0,2381,1.7,2.9,1619,Entertainment
